@@ -1,4 +1,5 @@
-### Hello world 👋
+# Hello world <img src="images/hello.gif" width="30px">
+
 ```java
 LOGGER.info("I'm Miguel Castro");
 ```
