@@ -1,7 +1,7 @@
 # Hello world <img src="images/hello.gif" width="30px">
 
 ```java
-LOGGER.info("I'm Miguel Castro");
+log.debug("I'm Miguel Castro")
 ```
 
 Hey, welcome to my GitHub, i'm a young sixth semester computer engineering student and a programming apprentice who loves and is passionate about software development, i like to learn new things all the time to always be improving, currently i'm still learning programming things and english.
